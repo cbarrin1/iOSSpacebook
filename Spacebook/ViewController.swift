@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     
     //MARK: Actions
     @IBAction func goLogin(_ sender: UIButton) {
-        
+        emailField.text = "Test"
     }
     
 
